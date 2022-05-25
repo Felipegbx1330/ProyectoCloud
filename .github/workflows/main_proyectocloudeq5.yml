@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ProyectoCloudEq5'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6ECEEBB5C171425DAD2C20578081406D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51985FFA44AE44F4B5D3E45BF1245A50 }}
           package: .
